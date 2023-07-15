@@ -1,6 +1,6 @@
 # Informatica di base
 
-Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso [Informatica di base (A-L)](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/393680) della [Laurea in Lettere](https://corsi.unibo.it/laurea/lettere) dell'[Università di Bologna](http://www.unibo.it).
+Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso [Informatica di base (A-L)](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/458983) della [Laurea in Lettere](https://corsi.unibo.it/laurea/lettere) dell'[Università di Bologna](http://www.unibo.it).
 
 
 ## Anno accademico 2023/2024
