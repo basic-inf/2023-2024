@@ -67,7 +67,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <hr />
 
 11. [15/04/24] Wrap-up
-    <br />
+    <hr />
 
 
 ### Calendario
