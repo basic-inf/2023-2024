@@ -75,14 +75,14 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 <table>
   <tr><td>18/03/24</td><td>11:00-13:00</td><td>Introduzione al corso</td></tr>
   <tr><td>18/03/24</td><td>11:00-13:00</td><td>Le tecnologie informatiche nelle scienze umane</td></tr>
-  <tr><td>19/03/24</td><td>11:00-13:00</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
-  <tr><td>21/03/24</td><td>11:00-13:00</td><td>Algoritmi e computabilità</td></tr>
+  <tr><td>19/03/24</td><td>09:00-11:00</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
+  <tr><td>21/03/24</td><td>09:00-11:00</td><td>Algoritmi e computabilità</td></tr>
   <tr><td>25/03/24</td><td>11:00-13:00</td><td>Linguaggi di programmazione</td></tr>
-  <tr><td>26/03/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td></tr>
-  <tr><td>04/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td></tr>
+  <tr><td>26/03/24</td><td>09:00-11:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td></tr>
+  <tr><td>04/04/24</td><td>09:00-11:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td></tr>
   <tr><td>08/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Internet</td></tr>
-  <tr><td>09/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
-  <tr><td>11/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
+  <tr><td>09/04/24</td><td>09:00-11:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
+  <tr><td>11/04/24</td><td>09:00-11:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
   <tr><td>15/04/24</td><td>11:00-13:00</td><td>Wrap-up</td></tr>
 </table>
     
