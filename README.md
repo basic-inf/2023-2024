@@ -66,7 +66,10 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
       * [Esempio](https://basic-inf.github.io/2023-2024/material/example.html) di pagina HTML
     <hr />
 
-11. [15/04/24] Wrap-up
+11. [22/04/24] Wrap-up
+    <hr />
+
+12. [06/05/24] Laboratorio
     <hr />
 
 
