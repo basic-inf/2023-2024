@@ -67,9 +67,10 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <hr />
 
 11. [22/04/24] Wrap-up
+    * slide: [Google Slides](https://tinyurl.com/bi1819-10)
     <hr />
 
-12. [06/05/24] Laboratorio
+13. [06/05/24] Laboratorio
     <hr />
 
 
